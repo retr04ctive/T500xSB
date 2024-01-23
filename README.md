@@ -1,2 +1,53 @@
-# T500xSB
-Remix of the T500xVoron created by Trist0ne
+
+# T500xSB Printhead Retroactive Remix
+
+Remix of the T500xVoron mod created by Trist0ne
+
+![image](https://github.com/retr04ctive/T500xSB/assets/112026844/7a4d6a8f-9080-43c7-9e43-d836320a14c2)
+
+## Acknowledgements
+
+**Huge thanks for all of the foundation work here:**
+
+ - [T500xVORON](https://github.com/Trist0ne/T500xVORON)
+
+ Follow his method for everything, substuting parts as shown below to fit your needs.
+
+ 
+
+
+## Features
+
+- Nozzle: [Phaetus Rapito HF Black](https://www.phaetus.com/products/rapido2?variant=45177211126037)
+- Extruder: [Bondtech LGX Lite 2](https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder/)
+* Printhead control board: [BigtreeTech SB2209 RP2040](https://biqu.equipment/products/bigtreetech-ebb-sb2209-can-v1-0)
+
+* Printhead display board: [BigtreeTech KNOMI V2](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=1&_psq=knomi&_ss=e&_v=1.0&variant=40556258459746)
+
+* Buildplate: [WhamBam PEX](https://www.whambamsystems.com/products/flexi-plate-with-pre-installed-pex-build-surface-510-x-510-creality-cr-10-s5_)
+* LED Lighting: [RAINBOW BARF LED TOOLHEAD HARNESS FOR STEALTH BURNER](https://kb-3d.com/store/printer-specific-harnesses/566-rainbow-barf-led-toolhead-harness-for-stealth-burner-1653783045189.html) 
+
+
+
+
+## Modified Printed parts list
+
+**THESE MUST ALL BE PRINTED FROM ABS OR ASA. THEY ARE DESIGNED FOR ABS, I USED ASA. OTHER MATERIALS ARE NOT SUITABLE EITHER DUE TO THEIR TEMPERATURE RESISTANCE OR STRUCTURE CREEP OVER TIME; YOU HAVE BEEN WARNED**
+
+* [Stealthburner / LGX Lite / EBB 2209 & 2240 - Remix](https://www.printables.com/model/437832)
+    
+    **DO NOT PRINT THE FRONT COVER FROM THIS** 
+use this one:
+* [Voron SB + LGX Lite + Knomi V2 + SB2209](https://www.printables.com/model/730424)
+
+
+
+
+
+
+
+## Config file changes
+
+To run this project, you will need to change the Kliper config files to the ones in the config folder above.
+
+
