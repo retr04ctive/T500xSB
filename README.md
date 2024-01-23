@@ -50,4 +50,7 @@ use this one:
 
 To run this project, you will need to change the Kliper config files to the ones in the config folder above.
 
+I also installed a [Logitech C920 USB Webcam](https://www.logitech.com/en-ch/products/webcams/c920-pro-hd-webcam.960-001055.html) to use with [Obico](https://www.obico.io/) for spaghetti detection.
+
+
 
