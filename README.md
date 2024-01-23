@@ -52,5 +52,11 @@ To run this project, you will need to change the Kliper config files to the ones
 
 I also installed a [Logitech C920 USB Webcam](https://www.logitech.com/en-ch/products/webcams/c920-pro-hd-webcam.960-001055.html) to use with [Obico](https://www.obico.io/) for spaghetti detection.
 
+## Recommendations
+
+Follow the [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html) as well as running the calibrations in [Orca Slicer](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
+
+
+
 
 
