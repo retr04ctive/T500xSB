@@ -35,17 +35,8 @@ Remix of the T500xVoron mod created by Trist0ne
 
 **THESE MUST ALL BE PRINTED FROM ABS OR ASA. THEY ARE DESIGNED FOR ABS, I USED ASA. OTHER MATERIALS ARE NOT SUITABLE EITHER DUE TO THEIR TEMPERATURE RESISTANCE OR STRUCTURE CREEP OVER TIME; YOU HAVE BEEN WARNED**
 
-* [Stealthburner / LGX Lite / EBB 2209 & 2240 - Remix](https://www.printables.com/model/437832)
+* [STL files](https://www.printables.com/model/437832)
     
-    **DO NOT PRINT THE FRONT COVER FROM THIS** 
-use this one:
-* [Voron SB + LGX Lite + Knomi V2 + SB2209](https://www.printables.com/model/730424)
-
-
-
-
-
-
 
 ## Config file changes
 
