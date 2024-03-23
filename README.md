@@ -35,7 +35,7 @@ Remix of the T500xVoron mod created by Trist0ne
 
 **THESE MUST ALL BE PRINTED FROM ABS OR ASA. THEY ARE DESIGNED FOR ABS, I USED ASA. OTHER MATERIALS ARE NOT SUITABLE EITHER DUE TO THEIR TEMPERATURE RESISTANCE OR STRUCTURE CREEP OVER TIME; YOU HAVE BEEN WARNED**
 
-* [STL files](https://www.printables.com/model/437832)
+* [STL files](https://github.com/retr04ctive/T500xSB/tree/primary/STL)
     
 
 ## Config file changes
