@@ -20,7 +20,7 @@ Remix of the T500xVoron mod created by Trist0ne
 
 - Nozzle: [Bambu Hotend](https://www.amazon.com/dp/B0C8JZ788Y/?coliid=IKF3QMVWG7M26&colid=246Z1N1LOHGAH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 - Thermister and Heater: [Bambu Heater](https://www.amazon.com/dp/B0BW3WXVNR/?coliid=I27RHMRRU0CMGD&colid=246Z1N1LOHGAH&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
-- Extruder: [Bondtech LGX Lite 2](https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder/)
+- Extruder: [Bondtech LGX Lite 2]([https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder/](https://www.amazon.com/dp/B0CMDHJRZ8/?coliid=ITTDOWZC24GLZ&colid=246Z1N1LOHGAH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it))
 * Printhead control board: [BigtreeTech SB2209 RP2040](https://biqu.equipment/products/bigtreetech-ebb-sb2209-can-v1-0)
 
 * Printhead display board: [BigtreeTech KNOMI V2](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=1&_psq=knomi&_ss=e&_v=1.0&variant=40556258459746)
