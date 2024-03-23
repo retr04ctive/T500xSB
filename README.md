@@ -18,7 +18,8 @@ Remix of the T500xVoron mod created by Trist0ne
 
 ## Features
 
-- Nozzle: [Phaetus Rapito HF Black](https://www.phaetus.com/products/rapido2?variant=45177211126037)
+- Nozzle: [Bambu Hotend]([https://www.phaetus.com/products/rapido2?variant=45177211126037](https://www.amazon.com/dp/B0C8JZ788Y/?coliid=IKF3QMVWG7M26&colid=246Z1N1LOHGAH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it))
+- Thermister and Heater: [Bambu Heater](https://www.amazon.com/dp/B0BW3WXVNR/?coliid=I27RHMRRU0CMGD&colid=246Z1N1LOHGAH&ref_=list_c_wl_lv_ov_lig_dp_it&th=1)
 - Extruder: [Bondtech LGX Lite 2](https://www.bondtech.se/product/lgx-lite-v2-large-gears-extruder/)
 * Printhead control board: [BigtreeTech SB2209 RP2040](https://biqu.equipment/products/bigtreetech-ebb-sb2209-can-v1-0)
 
