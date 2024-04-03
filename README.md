@@ -27,7 +27,6 @@ Remix of the T500xVoron mod created by Trist0ne
 * Buildplate: [WhamBam PEX](https://www.whambamsystems.com/products/flexi-plate-with-pre-installed-pex-build-surface-510-x-510-creality-cr-10-s5_)
 * LED Lighting: [RAINBOW BARF LED TOOLHEAD HARNESS FOR STEALTH BURNER](https://kb-3d.com/store/printer-specific-harnesses/566-rainbow-barf-led-toolhead-harness-for-stealth-burner-1653783045189.html)
 
-* Amazon List of parts: [T500 Parts Amazon](https://www.amazon.com/hz/wishlist/ls/246Z1N1LOHGAH?ref=cm_sw_em_r_un_un_odb33hDHC40KM)
 
 
 
