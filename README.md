@@ -61,8 +61,8 @@ Follow the [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/a
 
 Slicer Configuration
 * Edit your printer settings "Machine G-code" tab as follows:
-  PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]
-  PRINT_END
+  * PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]
+  * PRINT_END
 
 
 
