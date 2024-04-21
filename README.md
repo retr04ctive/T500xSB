@@ -46,9 +46,23 @@ I also installed a [Logitech C920 USB Webcam](https://www.logitech.com/en-ch/pro
 
 [Raspberry Pi Pico ADXL](https://klipper.discourse.group/t/raspberry-pi-pico-adxl345-portable-resonance-measurement/1757)
 
+
 ## Recommendations
 
 Follow the [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html) as well as running the calibrations in [Orca Slicer](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
+
+[Sensorless Homing](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
+
+[Klipper PID Tunuing](https://www.obico.io/blog/klipper-pid-tuning/)
+
+[Input Shaping](https://www.klipper3d.org/Measuring_Resonances.html#bed-slinger-printers)
+
+[Perssure Advance](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration)
+
+Slicer Configuration
+* Edit your printer settings "Machine G-code" tab as follows:
+  PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature]
+  PRINT_END
 
 
 
