@@ -26,6 +26,7 @@ Remix of the T500xVoron mod created by Trist0ne
 * Printhead display board: [BigtreeTech KNOMI V2](https://biqu.equipment/products/bigtreetech-knomi-v1-0?_pos=1&_psq=knomi&_ss=e&_v=1.0&variant=40556258459746)
 * Buildplate: [WhamBam PEX](https://www.whambamsystems.com/products/flexi-plate-with-pre-installed-pex-build-surface-510-x-510-creality-cr-10-s5_)
 * LED Lighting: [RAINBOW BARF LED TOOLHEAD HARNESS FOR STEALTH BURNER](https://kb-3d.com/store/printer-specific-harnesses/566-rainbow-barf-led-toolhead-harness-for-stealth-burner-1653783045189.html)
+* Heatbed Mosfet: [MKS MOSFET MOS Module](https://a.co/d/cuV4RM1)
 
 
 
